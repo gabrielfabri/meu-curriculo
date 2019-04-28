@@ -1,0 +1,27 @@
+body{
+  width: 1080px;
+  margin: 0 auto;
+  font-family: 'Arial';
+  background: #FFFACD;
+
+}
+
+h1{
+  color: black;
+  font-style: Arial;
+  border-style: solid;
+  border-width: 5px;
+
+}
+
+h2{
+  color: black;
+  font-style: italic;
+  
+
+}
+
+h3{
+  color:black;
+  font-style: Arial;
+}
